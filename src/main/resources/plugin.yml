@@ -1,0 +1,4 @@
+name: HasteSMP
+version: 1.0.0
+main: me.hastesmp.HasteSMP
+api-version: '1.21'
